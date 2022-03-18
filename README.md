@@ -9,6 +9,7 @@ Points:-
 4. We can edit the content only when lock is unlocked.
 
 
-![Screenshot (1671)](https://user-images.githubusercontent.com/47451276/159000210-f2a44c8f-e0b4-446e-a6fe-8bf23a137348.png)
-![Screenshot (1672)](https://user-images.githubusercontent.com/47451276/159000214-d5482884-2498-41af-934a-fa7ffe407a83.png)
-![Screenshot (1673)](https://user-images.githubusercontent.com/47451276/159000225-1ba6d555-2a1f-4c32-a6d5-dc4c231250dd.png)
+![Screenshot (1671)](https://user-images.githubusercontent.com/47451276/159000549-cd3fee1b-4d2a-4a45-ae13-a892c0b51501.png)
+![Screenshot (1672)](https://user-images.githubusercontent.com/47451276/159000553-0d71b67e-54f0-4311-97d0-4ee665c5df9b.png)
+![Screenshot (1673)](https://user-images.githubusercontent.com/47451276/159000555-3abf1b39-1b8e-44d5-a71a-51d22bc23b78.png)
+
